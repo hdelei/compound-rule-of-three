@@ -1,6 +1,6 @@
 # Compound rule of three
 
-# 10 cranes carry 200 boxes on a ship in 18 days of 8 working hours.
+# 10 cranes can carry 200 boxes on a ship in 18 days of 8 working hours.
 # How many boxes will be carried in 15 days by 6 cranes working 6 hours
 # per day?
 
